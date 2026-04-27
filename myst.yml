@@ -22,13 +22,13 @@ project:
     - file: intro.md
     - title: "Part I: Foundations of CUQIpy and Bayesian Inverse Problems"
       children:
+        - file: chapter01_0/chapter01_0.md #ch1
         - file: chapter01/chapter01.md #ch1
           children:
             - file: chapter01/overview_of_cuqipy.md
             - file: chapter01/run_mini_book.md
         - file: chapter01_b/chapter01_b.md #ch2
           children:
-            - file: chapter01_b/chapter01_b_contents.md
             - file: chapter01/intro_example_short.ipynb
             - file: chapter01/intro_example_long.ipynb
         - file: chapter01_c/chapter01_c.md #ch3
