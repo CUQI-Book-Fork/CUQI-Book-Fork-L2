@@ -11,10 +11,13 @@ project:
       ref: master
   bibliography:
     - references.bib
+  numbering: false
   exports:
     - format: pdf
-      template: plain_latex_book
+      template: _templates/plain_latex_nonumbered
       output: exports/book.pdf
+      options:
+        logo: false
   toc:
     - file: intro.md
     - title: "Part I: Foundations of CUQIpy and Bayesian Inverse Problems"
