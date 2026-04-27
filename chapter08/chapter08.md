@@ -1,4 +1,4 @@
-# Chapter 15: Resources and bibliography
+# Chapter 16: Resources and bibliography
 
 ## Resources
 - [CUQIpy documentation](https://cuqi-dtu.github.io/CUQIpy/)
