@@ -66,9 +66,9 @@ project:
           children:
             - file: chapter04/Plugins/CUQIpy-PyTorch/hmc.ipynb
         - file: chapter01_m/chapter01_m.md #ch10
-          #children:
+          children:
           #  - file: chapter01_m/example_rto.ipynb
-          #  - file: chapter01_m/Poisson_1D_MYULA_v4.ipynb
+            - file: chapter01_m/Poisson_1D_MYULA_v4.ipynb
 
 
     - title: "Part III: Applications and Research Using CUQIpy"
