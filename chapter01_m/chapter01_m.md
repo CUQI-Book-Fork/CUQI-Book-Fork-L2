@@ -5,7 +5,6 @@
 > ⚠️ **This is just a chapter concept.. not finalized yet** 
 
 
-
 - What are implicit priors, and why are they useful?
 
 - Types of implicit priors based on our framework {cite}`everink2025computational`:
