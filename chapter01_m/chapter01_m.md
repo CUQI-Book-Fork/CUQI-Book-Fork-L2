@@ -4,14 +4,7 @@
 
 > ⚠️ **This is just a chapter concept.. not finalized yet** 
 
-- What are implicit priors, and why are they useful?
-
-- Types of implicit priors based on our framework {cite}`everink2025computational`:
-  - Parametrized implicit priors 
-  - Regularized linear RTO
-  - Langevin-based implicit priors
-
-- Limitations of implicit priors
+- short recap of what are implicit priors, and thier categoraization, refer to previous section on implicit priors.
 
 - What we present in this chapter:
   - A relatively simple BIP examples that use the second and third type of implicit priors (an examples of the first type can be found in {ref}`PDE-based-heat-problem`)
@@ -24,6 +17,7 @@
 :align: center
 The square signal, which is used as the true signal in the examples in this chapter. The signal represents different quantities depending on the example, e.g., a conductivity field or an image.
 ```
+- can talk a bit about implict prior limitations
 
 Refer to {cite}`everink2025computational` for additional theoretical background, details about the implicit prior framework in CUQIpy and additional examples, including combining implicit priors with hyperparameters, which we do not discuss in this chapter for brevity. 
 
