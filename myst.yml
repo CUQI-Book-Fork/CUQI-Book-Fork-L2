@@ -22,7 +22,6 @@ project:
     - file: intro.md
     - title: "Part I: Foundations of CUQIpy and Bayesian Inverse Problems"
       children:
-        - file: chapter01_0/chapter01_0.md #ch1
         - file: chapter01/chapter01.md #ch1
           children:
             - file: chapter01/overview_of_cuqipy.md
